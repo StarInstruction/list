@@ -1,4 +1,7 @@
-C++[[:space:]]Primer.pdf filter=lfs diff=lfs merge=lfs -text
-CSAPP_2016.pdf filter=lfs diff=lfs merge=lfs -text
-Computer[[:space:]]Systems[[:space:]]A[[:space:]]Programmers[[:space:]]Perspective[[:space:]](3rd).pdf filter=lfs diff=lfs merge=lfs -text
-LinkersAndLoaders.pdf filter=lfs diff=lfs merge=lfs -text
+AW_ConcurrencyAction.pdf filter=lfs diff=lfs merge=lfs -text
+AA_CppDesignPattern.pdf filter=lfs diff=lfs merge=lfs -text
+RG_Concurrency.pdf filter=lfs diff=lfs merge=lfs -text
+RG_Cpp20.pdf filter=lfs diff=lfs merge=lfs -text
+RG_CppGuideExplain.pdf filter=lfs diff=lfs merge=lfs -text
+BF_Cpp17.pdf filter=lfs diff=lfs merge=lfs -text
+BeautifulCpp.pdf filter=lfs diff=lfs merge=lfs -text
