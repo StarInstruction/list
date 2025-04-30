@@ -1,0 +1,7 @@
+Template[[:space:]]with[[:space:]]Cpp.pdf filter=lfs diff=lfs merge=lfs -text
+Architecture[[:space:]]Patterns[[:space:]]with[[:space:]]Python.pdf filter=lfs diff=lfs merge=lfs -text
+C++20[[:space:]]STL[[:space:]]Cookbook.pdf filter=lfs diff=lfs merge=lfs -text
+Head[[:space:]]First[[:space:]]SA.pdf filter=lfs diff=lfs merge=lfs -text
+SA[[:space:]]in[[:space:]]Practice.pdf filter=lfs diff=lfs merge=lfs -text
+SA_[[:space:]]The[[:space:]]Hard[[:space:]]Parts.pdf filter=lfs diff=lfs merge=lfs -text
+Software-Fundamentals[[:space:]]of[[:space:]]SA.pdf filter=lfs diff=lfs merge=lfs -text
