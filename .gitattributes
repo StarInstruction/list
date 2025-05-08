@@ -10,3 +10,5 @@ NMJ_Cpp17.pdf filter=lfs diff=lfs merge=lfs -text
 RG_CppStdLib.pdf filter=lfs diff=lfs merge=lfs -text
 Grokking_FP.pdf filter=lfs diff=lfs merge=lfs -text
 EffectiveModernCpp.pdf filter=lfs diff=lfs merge=lfs -text
+CppTemplates2nd.pdf filter=lfs diff=lfs merge=lfs -text
+CppTemplates2nd_zh.pdf filter=lfs diff=lfs merge=lfs -text
