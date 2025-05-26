@@ -17,3 +17,4 @@ Linux内核架构.pdf filter=lfs diff=lfs merge=lfs -text
 Linux剖析.pdf filter=lfs diff=lfs merge=lfs -text
 Linux注释.pdf filter=lfs diff=lfs merge=lfs -text
 图解Linux.pdf filter=lfs diff=lfs merge=lfs -text
+Linux[[:space:]]内核源代码.pdf filter=lfs diff=lfs merge=lfs -text
